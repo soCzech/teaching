@@ -10,6 +10,8 @@ Casti cviceni se budou nahravat, budou pristupne pouze pro studenty tohoto cvice
 
 :exclamation: Pozor, prvni cviceni bude probihat az v patek 2.10. v 16:30. :exclamation:
 
+Konzultace po dohode na konci cviceni nebo mailem - nebojte se napsat, kdyz necemu nerozumite. Pokud mate problem, neco vam nejde, reste to hned, jsme tu od toho, abychom vam pomohli.
+
 
 Podminky na zapocet
 -------------------
@@ -26,7 +28,7 @@ Podminky na zapocet
 
 Ucast na online cvicenich neni vyzadovana, avsak za spravne odpovedi a aktivitu na cvicenich muzete ziskat body nad hranici 100% za domaci ulohy. Ucast na cvicenich vam taktez vyrazne usnadni reseni domacich uloh. Pri reseni domacich ukolu muzete spolupracovat ve dvojicich. Podotykam, ze muzete spolupracovat na vymysleni reseni, nikoliv ze od nekoho jineho reseni okopirujete. I v pripade spoluprace ve dvojici kazdy pak musi odevzdat svoje vlastni sepsane/naprogramovane reseni.
 
-Domaci ukoly se odevzdavaji do [recodex.mff.cuni.cz](https://recodex.mff.cuni.cz/), kazdy se bude muset registrovat. Vice informaci dostanete na prvnim cviceni / mailem / na teto strance, az to bude aktualni.
+Domaci ukoly se odevzdavaji do [recodex.mff.cuni.cz](https://recodex.mff.cuni.cz/), kazdy se musi registrovat pres vas univerzitni ucet do SISu, pote se musite v zalozce *SIS integrace* prihlasit do skupin *Algoritmizace (20aNPRG062x12)* a *Programování 1 (20aNPRG030x13)*.
 
 Program cviceni
 ---------------
@@ -43,6 +45,8 @@ Programovani
     - prevod poctu sekund na hodiny a dny
     - pocet dnu mezi dvema dny v roce
 
-Ukoly
+:hourglass_flowing_sand: Ukoly
 - prosim, nainstalujte si Python a Pycharm pred prvnim cvicenim, navod mate ve videu (v mailu), v pripade problemu s instalaci napiste mail
+- zaregistrujte se v [recodexu](https://recodex.mff.cuni.cz/registration), ucet si vytvorite pres vas univerzitni ucet do SISu, pote se musite v zalozce *SIS integrace* prihlasit do skupin *Algoritmizace (20aNPRG062x12)* a *Programování 1 (20aNPRG030x13)*
+- :keyboard: v recodexu najdete prvni ukol na Programovani 1, jedna se o jednoduche secteni cisel, jehoz cilem je si vyzkouset vkladani reseni do recodexu. Pokud si s tim ted nevite rady, nebojte, po prvnim cviceni vam vyreseni teto ulohy bude trvat 2 minuty :)
 
