@@ -36,8 +36,13 @@ Algoritmizace
 - [predbezny program](https://github.com/soCzech/teaching/blob/master/2021winter/2020-09-30/cv1-algoritmizace.pdf)
 
 Programovani
+- :movie_camera: video, jak zprovoznit Python a Pycharm (odkaz v mailu)
 - predbezny program:
+    - seznameni s Pythonem a IDE (Pycharm)
     - rozklad ceny na bankovky a mince
     - prevod poctu sekund na hodiny a dny
     - pocet dnu mezi dvema dny v roce
+
+Ukoly
+- prosim, nainstalujte si Python a Pycharm pred prvnim cvicenim, navod mate ve videu (v mailu), v pripade problemu s instalaci napiste mail
 
