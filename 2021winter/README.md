@@ -33,20 +33,44 @@ Domaci ukoly se odevzdavaji do [recodex.mff.cuni.cz](https://recodex.mff.cuni.cz
 Program cviceni
 ---------------
 
-#### 30.9. (presunuto na 2.10. 16:30 !!!)
+#### 7.10.
 Algoritmizace
-- [predbezny program](https://github.com/soCzech/teaching/blob/master/2021winter/2020-09-30/cv1-algoritmizace.pdf)
+- predbezny program:
+    - O() notace
+    - Eukleiduv algoritmus
 
 Programovani
-- :movie_camera: video, jak zprovoznit Python a Pycharm (odkaz v mailu)
 - predbezny program:
-    - seznameni s Pythonem a IDE (Pycharm)
     - rozklad ceny na bankovky a mince
     - prevod poctu sekund na hodiny a dny
     - pocet dnu mezi dvema dny v roce
 
+
+#### 30.9. (presunuto na 2.10. 16:30 !!!)
+Algoritmizace
+- [program](https://github.com/soCzech/teaching/blob/master/2021winter/2020-09-30/cv1-algoritmizace.pdf)
+    - Priklad 1 (mince), Priklad 4 (cokolada), Priklad 5 (porovnani, cast a)
+
+Programovani
+- :movie_camera: video, jak zprovoznit Python a Pycharm (odkaz v mailu)
+- soucet dvou cisel:
+    ```
+    x = int(input())
+    y = int(input())
+    print(x+y)
+    ```
+- vyzkousjte si neco v Pythonu:
+    - [https://www.codecademy.com/learn/learn-python](codecademy.com/learn/learn-python) - programovani v pythonu 2 pro zacatecniky (my pouzivame python 3, ale rozdily jsou male, napr. `print "ahoj"` vs. `print("ahoj")`)
+    - [codingbat.com/python](https://codingbat.com/python) - jako recodex ale se zobrazenim spravnych a spatnych vstupu
+
 :hourglass_flowing_sand: Ukoly
 - prosim, nainstalujte si Python a Pycharm pred prvnim cvicenim, navod mate ve videu (v mailu), v pripade problemu s instalaci napiste mail
 - zaregistrujte se v [recodexu](https://recodex.mff.cuni.cz/registration), ucet si vytvorite pres vas univerzitni ucet do SISu, pote se musite v zalozce *SIS integrace* prihlasit do skupin *Algoritmizace (20aNPRG062x12)* a *Programování 1 (20aNPRG030x13)*
-- :keyboard: v recodexu najdete prvni ukol na Programovani 1, jedna se o jednoduche secteni cisel, jehoz cilem je si vyzkouset vkladani reseni do recodexu. Pokud si s tim ted nevite rady, nebojte, po prvnim cviceni vam vyreseni teto ulohy bude trvat 2 minuty :)
+- :keyboard: v recodexu najdete prvni ukol na Programovani 1, jedna se o jednoduche secteni cisel, jehoz cilem je si vyzkouset vkladani reseni do recodexu. **1 bod**
+- :page_with_curl: ukoly z algoritmizace, odevzdavejte do recodexu jako txt soubor, pdf soubor, nebo naskenovany/kvalitne vyfoceny jpg soubor, doporucuji odevzdat v pdf pri vyuziti LaTeXu (napr. vytvoreny na [overleaf.com](https://www.overleaf.com/)), recodex vam da automaticky nula bodu - body dostanete ode me po manualni kontrole, samozrejme muzete odevzdat jen cast prikladu a dostat tak pomerove mnozstvi bodu, priklady [viz zadani ze cviceni](https://github.com/soCzech/teaching/blob/master/2021winter/2020-09-30/cv1-algoritmizace.pdf)
+    - Priklad 2 (cast a + b) = **1 bod**
+    - Priklad 5 (cast b) = **1 bod**
+    - Priklad 5 (cast c) = **1 bod**
+    - Priklad 5 (cast d) = **1 bonusovy bod** (nepocita se do zakladu pro zapocet)
+
 
