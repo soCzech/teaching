@@ -52,6 +52,7 @@ Programovani
     - rozklad ceny na bankovky a mince
     - prevod poctu sekund na hodiny a dny
     - pricitani urciteho poctu sekund k casu
+
 :hourglass_flowing_sand: Ukoly
 - :keyboard: v recodexu
     - Maximum = **1 bod**
