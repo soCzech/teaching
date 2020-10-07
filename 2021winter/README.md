@@ -32,18 +32,32 @@ Domaci ukoly se odevzdavaji do [recodex.mff.cuni.cz](https://recodex.mff.cuni.cz
 
 Program cviceni
 ---------------
-
-#### 7.10.
+#### 14.10.
 Algoritmizace
 - predbezny program:
     - O() notace
-    - Eukleiduv algoritmus
+    - Eratostenovo sito
 
 Programovani
 - predbezny program:
+    - list, string
+
+
+#### 7.10.
+Algoritmizace
+- Eukleiduv algoritmus pro nejvetsiho spolecneho delitele (NSD, anglicky GCD)
+
+Programovani
+- [kody z druheho cviceni](https://github.com/soCzech/teaching/blob/master/2021winter/2020-10-07/cviceni2-prevod_minci.py)
     - rozklad ceny na bankovky a mince
     - prevod poctu sekund na hodiny a dny
-    - pocet dnu mezi dvema dny v roce
+    - pricitani urciteho poctu sekund k casu
+:hourglass_flowing_sand: Ukoly
+- :keyboard: v recodexu
+    - Maximum = **1 bod**
+    - Druha nejvetsi hodnota = **1 bod**
+    - Scitani zlomku (vysledek v zakladnim tvaru !) = **1 bod**
+    - Prevod do binarni soustavy = **1 bod**
 
 
 #### 30.9. (presunuto na 2.10. 16:30 !!!)
@@ -60,7 +74,7 @@ Programovani
     print(x+y)
     ```
 - vyzkousjte si neco v Pythonu:
-    - [https://www.codecademy.com/learn/learn-python](codecademy.com/learn/learn-python) - programovani v pythonu 2 pro zacatecniky (my pouzivame python 3, ale rozdily jsou male, napr. `print "ahoj"` vs. `print("ahoj")`)
+    - [codecademy.com/learn/learn-python](https://www.codecademy.com/learn/learn-python) - programovani v pythonu 2 pro zacatecniky (my pouzivame python 3, ale rozdily jsou male, napr. `print "ahoj"` vs. `print("ahoj")`)
     - [codingbat.com/python](https://codingbat.com/python) - jako recodex ale se zobrazenim spravnych a spatnych vstupu
 
 :hourglass_flowing_sand: Ukoly
