@@ -32,15 +32,35 @@ Domaci ukoly se odevzdavaji do [recodex.mff.cuni.cz](https://recodex.mff.cuni.cz
 
 Program cviceni
 ---------------
-#### 14.10.
+#### 21. 10.
 Algoritmizace
 - predbezny program:
-    - O() notace
     - Eratostenovo sito
-
+    
 Programovani
 - predbezny program:
     - list, string
+    - posloupnosti
+
+
+#### 14.10.
+Algoritmizace
+- [program](https://github.com/soCzech/teaching/blob/master/2021winter/2020-10-14/cv3-algoritmizace.pdf)
+    - O() notace
+    - Priklad 1
+    - nalezeni K maxim - trideni seznamu cisel pomoci nalezeni N maxim
+
+:hourglass_flowing_sand: Ukoly
+- :page_with_curl: ukoly z algoritmizace (v recodexu), priklady [viz zadani ze cviceni](https://github.com/soCzech/teaching/blob/master/2021winter/2020-10-14/cv3-algoritmizace.pdf)
+    - Priklad 1 (cast e, g, h) = **3 body**
+    - Priklad 2 = **1 bonusovy bod** (nepocita se do zakladu pro zapocet)
+    - Priklad 4 = **1 bonusovy bod** (nepocita se do zakladu pro zapocet)
+- :keyboard: ukoly z programovani (v recodexu)
+    - Rozklad na soucin prvocisel = **1 bod**
+    - Soustavy = **1 bod**
+    - K-ty nejvetsi prvek = **1 bod**
+    - Vypsani pole v opacnem poradi = **1 bod**
+    - Suda a licha = **1 bod**
 
 
 #### 7.10.
