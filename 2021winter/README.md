@@ -61,6 +61,11 @@ Programovani
 - stringy
     - prevod stringu na cislo (vlastni funkce `int`)
     - nacitani vstupu (vlastni funkce `str.split(" ")`)
+    - vypisani listu na vystup
+- list
+    - sezareni seznamu v O(n^2), inplace
+    - list v listu
+    - otoceni listu (`seznam[::-1]` nebo pomoci prohazovani prvku - prvni s poslednim atd.)
 
 :hourglass_flowing_sand: Ukoly
 - :keyboard: ukoly z programovani (v recodexu)

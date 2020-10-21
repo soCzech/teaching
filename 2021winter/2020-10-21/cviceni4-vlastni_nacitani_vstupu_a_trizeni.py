@@ -138,3 +138,14 @@ def serad_a_nemen_puvodni_seznam(puvodni_seznam):
 novy_seznam = serad_a_nemen_puvodni_seznam(seznam)
 print("seznam:", seznam)
 print("novy_seznam:", novy_seznam)
+
+
+# VYPISOVANI POLE
+# ---------------
+print("\nVYPISOVANI POLE\n=======")
+seznam_string = ""
+for x in seznam:
+    seznam_string += " " + str(x)
+print(seznam_string)
+print(seznam_string[1:])
+print(" ".join([str(x) for x in seznam]))
