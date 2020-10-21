@@ -32,15 +32,41 @@ Domaci ukoly se odevzdavaji do [recodex.mff.cuni.cz](https://recodex.mff.cuni.cz
 
 Program cviceni
 ---------------
+#### 4. 11.
+- predbezny program:
+    - posloupnosti, binarni vyhledavani
+    - implementace pole a spojoveho seznamu
+    - zásobník, fronta, prioritní fronta (halda)
+
+
+#### 28. 10. (cviceni neni, statni svatek)
+V case cviceni bude probihat DOBROVOLNA konzultace pres Zoom (stejny meeting id jako cviceni).
+Pokud chcete neco konzultovat, napiste mi mailem, co chcete konzultovat (napr. konkretni ulohu, konkretni nefunkcni kod, konkretni koncept).
+Predpokladam, ze hlavni tema konzultace budou zaklady programovani. Konzultace se nebude nahravat.
+
+
 #### 21. 10.
 Algoritmizace
-- predbezny program:
-    - Eratostenovo sito
-    
+- spojovy seznam a pole
+    - jak to asi funguje v pameti (RAM) pocitace
+    - slozitosti operaci (v zavorce jejich python ekvivalenty, [viz dokumentace](https://docs.python.org/3/tutorial/datastructures.html)):
+    length (`len`), get_at_index (`[]`), append, insert_at_index (`insert`), remove_at_index (`pop`), find_item (`index`), build
+    - co se pouziva v pythonu a co je lepsi, kde a proc
+- nedelali jsme **Eratostenovo sito** (**nastudujte/naprogramujte si doma**)
+
 Programovani
-- predbezny program:
-    - list, string
-    - posloupnosti
+- [kody z ctvrteho cviceni](https://github.com/soCzech/teaching/blob/master/2021winter/2020-10-21/cviceni4-vlastni_nacitani_vstupu_a_trizeni.py)
+- while vs. for
+- funkce a jak se chovaji seznamy uprovavane uvnitr funkci
+- stringy
+    - prevod stringu na cislo (vlastni funkce `int`)
+    - nacitani vstupu (vlastni funkce `str.split(" ")`)
+
+:hourglass_flowing_sand: Ukoly
+- :keyboard: ukoly z programovani (v recodexu)
+    - Formatovani textu = **1 bod**
+    - Posun matice k nule = **1 bod**
+    - English or Czech? = **1 bod**
 
 
 #### 14.10.
