@@ -32,12 +32,28 @@ Domaci ukoly se odevzdavaji do [recodex.mff.cuni.cz](https://recodex.mff.cuni.cz
 
 Program cviceni
 ---------------
-#### 4. 11.
+#### 11. 11
 - predbezny program:
-    - posloupnosti, binarni vyhledavani
+    - tridy (`class`)
     - implementace pole a spojoveho seznamu
     - zásobník, fronta, prioritní fronta (halda)
 
+
+#### 4. 11.
+Algoritmizace
+- reseni domacich ukolu
+- [program](https://github.com/soCzech/teaching/blob/master/2021winter/2020-11-04/cv5-algoritmizace.pdf)
+    - Priklad 3, 4, 5
+    - :movie_camera: reseni prikladu 4, 5a, 5b; binarni vyhledavani; a zadani domacich ukolu ve videu (video je standardne v playlistu cviceni na youtube)
+
+Programovani
+- reseni domacich ukolu
+
+:hourglass_flowing_sand: Ukoly
+- :page_with_curl: ukol z algoritmizace (v recodexu), [viz zadani ze cviceni](https://github.com/soCzech/teaching/blob/master/2021winter/2020-11-04/cv5-algoritmizace.pdf)
+    - Priklad 5c = **1 bod** (spocitejte i presne *c* pro vasi strategii)
+- :keyboard: ukoly z programovani (v recodexu)
+    - Hledani v setridenem poli = **2 body**
 
 #### 28. 10. (cviceni neni, statni svatek)
 V case cviceni bude probihat DOBROVOLNA konzultace pres Zoom (stejny meeting id jako cviceni).
