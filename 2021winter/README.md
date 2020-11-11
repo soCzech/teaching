@@ -32,11 +32,28 @@ Domaci ukoly se odevzdavaji do [recodex.mff.cuni.cz](https://recodex.mff.cuni.cz
 
 Program cviceni
 ---------------
-#### 11. 11
+#### 18. 11.
 - predbezny program:
-    - tridy (`class`)
-    - implementace pole a spojoveho seznamu
-    - zásobník, fronta, prioritní fronta (halda)
+    - podle prednasky ...
+    
+#### 11. 11.
+Algoritmizace
+- zásobník, fronta, prioritní fronta
+    - rychlosti operaci:
+        - push/pop (zasobnik)
+        - enqueue/dequeue ((prioritni) fronta)
+    - implementace nafukovacim polem (`list`) nebo spojovym seznamem a jejich casove slozitosti
+
+Programovani
+- tridy (`class`)
+    - vlastni implementace nafukovaciho pole (`list`)
+    - [kody z sesteho cviceni](https://github.com/soCzech/teaching/blob/master/2021winter/2020-11-11/cviceni6-vlastni_implementace_listu.py)
+
+:hourglass_flowing_sand: Ukoly
+- :keyboard: ukol z algoritmizace (v recodexu)
+    - Spojový seznam = **2 body** + **1 bonusovy bod** za video, na kterem spolupracujete ve dvojici na reseni ukolu,
+      video musi byt prilozene do pred pristim cvicenim (tj. 17. 11.), vice info v recodexu,
+      spoluprace ve dvojici neznamena, ze odevzdate stejny kod - spolecne spolupracujete nad logikou reseni a pomahate si vzajemne odhalit chyby v programu
 
 
 #### 4. 11.
