@@ -32,9 +32,36 @@ Domaci ukoly se odevzdavaji do [recodex.mff.cuni.cz](https://recodex.mff.cuni.cz
 
 Program cviceni
 ---------------
-#### 18. 11.
+#### 25. 11.
 - predbezny program:
-    - podle prednasky ...
+    - hesovaci tabulka (jak funguje uvnitr, implementace)
+    - rekurze
+
+#### 18. 11.
+Algoritmizace
+- shrnuti ruznych datovych struktur a slozitosti jejich `insert`, `find` a `get_min` operaci
+    - spojovy seznam
+    - nafukovaci pole
+    - setridene pole
+    - halda
+    - strom
+    - hesovaci tabulka (=slovnik)
+- klic vs. klic a hodnota
+    - princip klic a hodnota lze aplikovat u vsech struktur, nejen u slovniku (samozrejme s jinymi slozitostmi)
+
+Programovani
+- diskuze nad problemy ukolu 'Hledani v setridenem poli' - deadline prodlouzena
+- `dict` (=hesovaci tabulka), viz [kody ze sedmeho cviceni](https://github.com/soCzech/teaching/blob/master/2021winter/2020-11-18/cviceni7-python_dict.py)
+    - najdete top 10 slov zacinajici velkym pismenem v novinovem clanku
+    
+:hourglass_flowing_sand: Ukoly
+- :keyboard: ukol z programovani (v recodexu bude zadan az o vikendu, pracovat na nem muzete ale uz ted)
+    - Halda = **3 body** - naimplementujte `class Halda` s operacemi `insert`, `get_min` (odebere nejmensi prvek) a `build`,
+      ktere pobezi v case O(log n) pro insert, get_min a O(n) pro build. Detaily nacitani vstupu a vypisovani vystupu budou pote v recodexu.
+      
+      Hint: jednotliva cisla haldy si udrzujte v poli (standardni python `list`).
+      Nezapomente, ze list.append a list.pop z konce seznamu trva v prumeru O(1), ale insert a pop do/ze zacatku nebo prostredka seznamu trva O(n).   
+
     
 #### 11. 11.
 Algoritmizace
