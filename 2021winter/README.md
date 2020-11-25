@@ -32,10 +32,42 @@ Domaci ukoly se odevzdavaji do [recodex.mff.cuni.cz](https://recodex.mff.cuni.cz
 
 Program cviceni
 ---------------
-#### 25. 11.
-- predbezny program:
-    - hesovaci tabulka (jak funguje uvnitr, implementace)
+
+#### 2. 12.
+- predbezny program na nasledujici dve cviceni:
     - rekurze
+    - prohledavani stavoveho prostoru
+    - dynamicke programovani
+
+#### 25. 11.
+Algoritmizace
+- reseni ukolu Dory ([viz zadani](https://github.com/soCzech/teaching/blob/master/2021winter/2020-11-04/cv5-algoritmizace.pdf))
+- jak funguje hesovaci tabulka pod poklickou
+
+Programovani
+- viz [kody z_osmeho_cviceni](https://github.com/soCzech/teaching/blob/master/2021winter/2020-11-25/cviceni8-soubory_bajty_vyjimky.py)
+- prace se soubory
+    - cteni, nasobne cteni se `seek`
+    - zapis, proc musime volat `close`, nebo `flush` kdyz soubor nechceme zavirat
+- prace s raw bajty
+    - cteni a zapis do souboru v rezimu `rb`, `wb`
+    - jak zapsat do souboru nulovy bajt (`\x00`)
+    - jak prevest cislo na sadu (napr. ctyr) bajtu `cislo.to_bytes(4, "little")`
+        - v jakem poradi se zapisuji bajty (little-endian a big-endian)
+    - **zapomeli jsme na zpetny prevod** (pridano do kodu z cviceni)
+        - `int.from_bytes(cislo.to_bytes(4, "little"), "little") == cislo`
+- vyjimky
+    - vyjimky jsou dobre, ukazuji nam kde mame chybu v programu :)
+    - existuji situace, kdy nemuzeme ovlivnit, zda vyjimka nastane
+        - ilustrovano na situaci s oteviranim souboru
+        - jak vyjimku odchytit a pokracovat v programu (`try` + `except`)
+    - jak "vyhodit" vyjimku v nasem kodu
+    - **vyjimky chceme eliminovat**, "vyhozeni" vyjimky je casove narocne, radsi pouzijme `if` kde to jde
+
+:hourglass_flowing_sand: Ukoly
+- zadne nove
+- **dodelejte si vsechny ukoly v recodexu zpetne**, ktere nemate jeste hotove (zvlast pokud si nejste v programovani 100% jisti)
+- pokud s necim (i starsim domacim ukolem) mate problem, **napiste mi mail**!
 
 #### 18. 11.
 Algoritmizace
