@@ -30,6 +30,47 @@ Ucast na online cvicenich neni vyzadovana, avsak za spravne odpovedi a aktivitu 
 
 Domaci ukoly se odevzdavaji do [recodex.mff.cuni.cz](https://recodex.mff.cuni.cz/), kazdy se musi registrovat pres vas univerzitni ucet do SISu, pote se musite v zalozce *SIS integrace* prihlasit do skupin *Algoritmizace (20aNPRG062x12)* a *Programování 1 (20aNPRG030x13)*.
 
+
+Zapoctovy program
+-----------------
+#### Zadání
+- tema zapoctoveho programu si volite vy - idealne neco, co si chcete naprogramovat, napriklad:
+    - webovka zobrazujici info z vaseho chytreho kvetinace
+    - program zpracovavajici vase fotky z mikroskopu
+    - hra (napr. snake v prikazove radce)
+- :exclamation: do **24. 12. 2020** mi napište e-mail (na tomas.soucek@cvut.cz!!!) s předmětem 'NPRG030 Zapoctovy program [vase_jmeno]' s podrobnejsim zadanim, nezapomente zminit:
+    - jake vstupy bude mit program (textovy soubor s nejakymi daty? - jakymi?, fotka?, url?)
+    - co bude vystupem programu
+    - jak se bude spoustet (napr. python detect_cells.py /cesta/k/fotce.jpg)
+    - jake balicky chcete pouzivat (napr. numpy, opencv, flask, atd.)
+- tema samozrejme podleha memu schvaleni ;)
+- inspirace, pokud fakt nevite co...:
+    - https://ksvi.mff.cuni.cz/~holan/zap_zs_2019-20_python.txt
+    - http://mj.ucw.cz/vyuka/zap/
+    - https://www.ms.mff.cuni.cz/~dvoram30/zapoctak.html
+    - https://www.ms.mff.cuni.cz/~forstova/pgmZ/Zapoctaky.html
+    
+#### Reseni
+- odevzdani na totozny mail s totoznym predmetem **do konce zkouskoveho** (tj. pred zacatkem letniho semestru)
+    - preferovany zpusob odevzdani je odkaz na vas repozitar s kodem na githubu (nebo obdobne sluzbe)
+    - jinak jako zip, v mailu na nej poslete odkaz, neposilejte primo jako prilohu mailu
+- soucasti reseni musi byt:
+    - jak program spustit (melo by to jit z prikazove radky jednim prikazem a melo by to byt spustitelne i na linuxu)
+        - pokud je spusteni zavisle na necem specifickem (napr. na chytrem kvetinaci), nutnost predvest program osobne (nebo pres zoom)
+    - jake balicky potrebuji na spusteni (pokud nejake specialni pouzivate)
+    - co program umi, z jakymi argumenty ho mohu spoustet?
+    - vse toto popsane v 'README' souboru
+    - ukazkove vstupy, pokud program ocekava neco na vstupu (napr. fotku)
+- kod...:
+    - musi byt citelny, s komentari co ktera cast, radek, funkce dela (pokud to okamzite nevyplyva z nazvu funkce ci obsahu radku)
+    - by mel byt rozumne strukturovany - vicekrat volany kod ve funkcich, spravne pouziti trid
+    - v kodu be mela byt pouzita python jmenna konvence - def jmeno_funkce(), class MojeTrida, atd. (NE mojeTrida ani Moje_trida!)
+- program musi fungovat a nesmi na nejaky jednoduchy ocekavany vstup spadnout
+    - napr. pokud argumentem programu je cesta k souboru - program nesmi skoncit vyjimkou, pokud soubor neexistuje
+- pokud vse nebude nadherne vysvetlene, citelne a jasne, budu vyzadovat predvedeni osobne / pres zoom,
+  potencialne i dopracovani (proto nenechte odevzdani na posledni chvili)
+
+
 Program cviceni
 ---------------
 
@@ -45,7 +86,7 @@ Algoritmizace
 - jak funguje hesovaci tabulka pod poklickou
 
 Programovani
-- viz [kody z_osmeho_cviceni](https://github.com/soCzech/teaching/blob/master/2021winter/2020-11-25/cviceni8-soubory_bajty_vyjimky.py)
+- viz [kody z osmeho cviceni](https://github.com/soCzech/teaching/blob/master/2021winter/2020-11-25/cviceni8-soubory_bajty_vyjimky.py)
 - prace se soubory
     - cteni, nasobne cteni se `seek`
     - zapis, proc musime volat `close`, nebo `flush` kdyz soubor nechceme zavirat
