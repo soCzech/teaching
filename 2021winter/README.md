@@ -58,7 +58,7 @@ Zapoctovy program
     - jak program spustit (melo by to jit z prikazove radky jednim prikazem a melo by to byt spustitelne i na linuxu)
         - pokud je spusteni zavisle na necem specifickem (napr. na chytrem kvetinaci), nutnost predvest program osobne (nebo pres zoom)
     - jake balicky potrebuji na spusteni (pokud nejake specialni pouzivate)
-    - co program umi, z jakymi argumenty ho mohu spoustet?
+    - co program umi, s jakymi argumenty ho mohu spoustet?
     - vse toto popsane v 'README' souboru
     - ukazkove vstupy, pokud program ocekava neco na vstupu (napr. fotku)
 - kod...:
