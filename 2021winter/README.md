@@ -73,7 +73,22 @@ Zapoctovy program
 
 Program cviceni
 ---------------
+#### 6. 1.
+- zapoctovy test
 
+
+#### 16. 12.
+- predbezny program:
+    - tema podle prani studentu (:exclamation: poslete mi pred cvicenim mail, co byste chteli zopakovat, dovysvetlit, nebo probrat neco noveho / pokrocileho)
+    - pouziti funkce/tridy z jineho souboru
+    - balicky
+        - built-in: os, glob, shutil, sys, argparse, random, time, datetime, curses ([ukazka](https://gist.github.com/claymcleod/b670285f334acd56ad1c))
+        - pip install: numpy, PIL (pillow), matplotlib, pandas, scikit-learn
+        - jupyter notebook
+    - prace s obrazky a grafy
+
+
+#### 9. 12.
 #### 2. 12.
 - predbezny program na nasledujici dve cviceni:
     - rekurze
