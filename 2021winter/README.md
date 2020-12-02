@@ -89,11 +89,30 @@ Program cviceni
 
 
 #### 9. 12.
-#### 2. 12.
-- predbezny program na nasledujici dve cviceni:
-    - rekurze
+- predbezny program:
     - prohledavani stavoveho prostoru
-    - dynamicke programovani
+
+
+#### 2. 12.
+Algoritmizace
+- rekurze
+    - Fibonacciho posloupnost, rekurzivni reseni a jeho efektivita, zrychleni pomoci ulozeni jiz spocitanych hodnot
+- zadani ukolu na prohledavani stavoveho prostoru do sirky a do hloubky
+
+Programovani
+- reseni haldy
+- viz [kody z devateho cviceni](https://github.com/soCzech/teaching/blob/master/2021winter/2020-12-02/cviceni9-rekurze.py)
+    - placeni 100 a 200 kc mincemi
+        - reseni rekurzi vs. reseni pomoci zasobniku
+    - hanojske veze ([animace](http://towersofhanoi.info/Animate.aspx))
+
+:hourglass_flowing_sand: Ukoly
+- :keyboard: ukoly z algoritmizace (v recodexu)
+    - Kyblik = **2 body** - prohledavani do hloubky (klidne pomoci rekurze)
+    - Kral v souboru = **2 body** - prohledavani do sirky (nejkratsi cesta)
+- :keyboard: ukol z programovani (v recodexu)
+    - Zaplaceni sumy mincemi = **1 bod** - rekurze
+
 
 #### 25. 11.
 Algoritmizace
