@@ -89,8 +89,31 @@ Program cviceni
 
 
 #### 9. 12.
-- predbezny program:
-    - prohledavani stavoveho prostoru
+Algoritmizace
+- prohledavani stavoveho prostoru
+    - DFS (do hloubky), BFS (do sirky), iterativni DFS
+    - reprezentace stavu jako grid (matice), graf s odkazy, funkce definujici sousedy
+
+Programovani
+- viz [kody z desateho cviceni](https://github.com/soCzech/teaching/blob/master/2021winter/2020-12-09/cviceni10-dfs_bfs.py)
+    - vypsani vsech strigu o delce max 3 pismen `a`, `b`, `c`
+        - v lexikografickem poradi
+        - v poradi kratsi stringy driv nez delsi
+     
+:hourglass_flowing_sand: Ukoly
+- :keyboard: ukol z programovani (v recodexu)
+    - Jeden proti stu = **2 body**
+    - Prelevani vody = **3 body**
+    
+:fire_extinguisher: Bonusove ukoly
+- nezapocitavaji se do 100% bodu na zapocet, deadline je 31. 12., zacnete resit vcas, ukoly jsou tezke
+- :keyboard: ukoly z algoritmizace (v recodexu)
+    - Kudy tam? = **3 body** - upravene BFS s prioritni frontou
+    - Hash table = **3 body** - vlastni implementace 'slovniku'
+- :keyboard: ukol z programovani (v recodexu)
+    - Cesta veze = **2 body** - podobne jako ukol *Kral v souboru*
+    - Tree set = **3 body** - implementace binarniho vyhledavaciho stromu		
+    - Circular queue = **2 body** - implementace fronty v poli s O(1) slozitostmi operaci enqueue, dequeue
 
 
 #### 2. 12.
