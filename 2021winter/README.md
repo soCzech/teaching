@@ -77,15 +77,26 @@ Program cviceni
 - zapoctovy test
 
 
+#### 23. 12. (prazdniny, nepovinna konzultace, nepovinne posezeni / diskuze s absolventy oboru Bioinformatika)
+- Od **9:00** konzultace prevazne zrejme na rekurzi a prohledavani, napiste mi konkretne, s cim mate problem
+- Od **11:00** virtualni posezeni / pivo / kafe s absolventkami oboru Bioinformatika 
+- oboje pres zoom call stejny jako je cviceni
+
+
 #### 16. 12.
-- predbezny program:
-    - tema podle prani studentu (:exclamation: poslete mi pred cvicenim mail, co byste chteli zopakovat, dovysvetlit, nebo probrat neco noveho / pokrocileho)
-    - pouziti funkce/tridy z jineho souboru
-    - balicky
-        - built-in: os, glob, shutil, sys, argparse, random, time, datetime, curses ([ukazka](https://gist.github.com/claymcleod/b670285f334acd56ad1c))
-        - pip install: numpy, PIL (pillow), matplotlib, pandas, scikit-learn
-        - jupyter notebook
-    - prace s obrazky a grafy
+Algoritmizace
+- reseni domacich ukolu na rekurzi a prohledavani, [viz kody](https://github.com/soCzech/teaching/blob/master/2021winter/2020-12-16/cviceni11-reseni_ukolu.py)
+
+Programovani
+- pouziti funkce/tridy z jineho souboru
+- balicky
+    - built-in: os, glob, shutil, sys, argparse, random, time, datetime, curses ([ukazka](https://gist.github.com/claymcleod/b670285f334acd56ad1c), na windows je potreba doinstalovat - `pip install windows-curses`)
+        - ukazky [viz kody z jedenacteho cviceni](https://github.com/soCzech/teaching/blob/master/2021winter/2020-12-16/cviceni11-balicky.py)
+- **vyzkousejte si dalsi balicky** doma:
+    - numpy, PIL (pillow), matplotlib, pandas, scikit-learn
+    - pokud mate anacondu, jsou soucasti distribuce, jinak `pip install [jmeno]` 
+    - **zkuste do prikazove radky napsat**: `jupyter notebook` (znovu mozna musite pres `pip` nainstalovat)
+        - vyberte `New` > `Notebook Python3` > piste python do bunek (Shift+Enter bunku spusti)
 
 
 #### 9. 12.
